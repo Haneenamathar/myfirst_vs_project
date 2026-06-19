@@ -3,4 +3,5 @@ body{
     background-image: url("../images/bg.jpg");
     h2 {color: orangered;}
     p {font-weight: bold;}
+    .text-center {text-align: center;}
 }
