@@ -1,3 +1,3 @@
-#myfirst_vs_project
+myfirst_vs_project
 
 
